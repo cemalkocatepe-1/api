@@ -1,0 +1,6 @@
+{
+    "name": "ccc/teknasyon",
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
